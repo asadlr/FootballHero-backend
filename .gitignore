@@ -1,0 +1,14 @@
+# Environment Variables
+.env
+
+# Node.js specific 
+node_modules/
+npm-debug.log
+
+# IDE Specific Config
+.vscode/ 
+.idea/
+
+# Potential OS-Specific Artifacts
+Thumbs.db
+.DS_Store
